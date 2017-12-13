@@ -5,8 +5,9 @@
 
 ### Features
 
--Blog
--Bortfolio
+- Blog
+- Bortfolio
+
 
 ### Code Examples 
 
