@@ -1,9 +1,20 @@
-# README
+# PORTFOLIO README 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
 
-Things you may want to cover:
+> Ruby ob Rails 5 app to create a portolio 
+
+### Features
+
+-Blog
+-Bortfolio
+
+### Code Examples 
+
+```ruby
+def my_method
+  puts "Here"
+end
+```
 
 * Ruby version
 
